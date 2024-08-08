@@ -1,5 +1,7 @@
 import Image from "next/image";
-import { H1 } from "./components/ui/H1";
+import { H1 } from "../components/ui/H1";
+import { H2 } from "../components/ui/H2";
+import {Bot} from "lucide-react";
 import me from "@/assets/me.jpeg";
 
 export default function Home() {
@@ -21,8 +23,11 @@ export default function Home() {
           />
         </div>
       </section>
-      <section className="space-y">
-        
+      <section className="space-y-3 text-center">
+        <H2>Ask the chatbot anything about me</H2>
+        <p>
+          Click the little <Bot className="inline pb-1" /> icon in the top bar to enable the AI chat. You can ask the chatbot anything about me, my projects, or anything else you&apos;d like to know.
+        </p>
       </section>
     </section>
   );
