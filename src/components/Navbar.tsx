@@ -9,7 +9,9 @@ export default function Navbar() {
                 <nav className="space-x-4 font-medium">
                     <Link href="/">Home</Link>
                     <Link href="/about">About Me</Link>
+                    <Link href="/experience">Education & Experience</Link>
                     <Link href="/projects">Projects</Link>
+                    <Link href="https://bit.ly/sushant_sde_fte">Resume</Link>
                     <Link href="/contact">Contact</Link>
                 </nav>
                 <div className="flex items-center gap-4">
