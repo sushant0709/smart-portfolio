@@ -11,7 +11,7 @@ export default function Navbar() {
                     <Link href="/about">About Me</Link>
                     <Link href="/experience">Education & Experience</Link>
                     <Link href="/projects">Projects</Link>
-                    <Link href="https://bit.ly/sushant_sde_fte">Resume</Link>
+                    <Link href="https://drive.google.com/file/d/1tFvKYClCt6m0VnCinPTow2SArF6au-gg/view?usp=sharing">Resume</Link>
                     <Link href="/contact">Contact</Link>
                 </nav>
                 <div className="flex items-center gap-4">

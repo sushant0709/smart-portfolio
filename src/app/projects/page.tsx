@@ -28,6 +28,12 @@ export default function Projects() {
                         - Engineered a Sarcasm Detector with MLOps automation using Terraform for AWS, MLFlow for experiment tracking, and Evidently for model monitoring. Deployed the Gradio app on HuggingFace.
                     </li>
                     <li>
+                        <a href="https://github.com/sushant0709/Building-Game-AI-Project" className="text-primary hover:underline">
+                            Game AI with Decision and Behavior Trees
+                        </a>{" "}
+                        - Developed AI for character movement and pathfinding using decision trees, behavior trees, and machine learning-based decision tree learning in C++ and SFML. Improved AI performance by 20%, enhancing decision-making fordynamic gameplay.
+                    </li>
+                    <li>
                         <a href="https://fairsplit-simple.web.app/" className="text-primary hover:underline">
                             FairSplit
                         </a>{" "}

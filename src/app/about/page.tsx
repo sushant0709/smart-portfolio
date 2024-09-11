@@ -16,7 +16,7 @@ export default function Page() {
         <H1>About Me</H1>
           <section className="space-y-3">
             <H2>Who am I?</H2>
-              <p>My name is Sushant Khattar a dedicated Computer Science graduate student at  <a href="https://www.csc.ncsu.edu/" className="text-primary hover:underline">NC State University</a>. I am working as an Engineering Intern at <a href="https://senzit.io" className="text-primary hover:underline">Senzit Inc</a>. With a background as an Embedded Software Engineer at <a href="https://www.nxp.com/" className="text-primary hover:underline">NXP Semiconductors</a>, where I specialized in developing Security Firmware, I&apos;ve delved into the intricacies of technology and cybersecurity. My passion extends to a keen interest in Mathematics and the fascinating world of Machine Learning.  </p>
+              <p>My name is Sushant Khattar, a dedicated Computer Science graduate student at  <a href="https://www.csc.ncsu.edu/" className="text-primary hover:underline">NC State University</a>. I am working as an Engineering Intern at <a href="https://senzit.io" className="text-primary hover:underline">Senzit Inc</a>. With a background as an Embedded Software Engineer at <a href="https://www.nxp.com/" className="text-primary hover:underline">NXP Semiconductors</a>, where I specialized in developing Security Firmware, I&apos;ve delved into the intricacies of technology and cybersecurity. My passion extends to a keen interest in Mathematics and the fascinating world of Machine Learning.  </p>
               <p>Currently, I&apos;m expanding my horizons by exploring the realm of web technologies, adding to my repertoire of skills. I&apos;m also passionate about Data Engineering and in my free time, I love to expand my knowledge in this area.</p>
           </section> 
         <hr className="border-muted" />
@@ -32,7 +32,7 @@ export default function Page() {
             <p>
               I specialize in modern web technologies like{" "}
               <strong>React</strong>, <strong>Next.js</strong>,{" "}
-              <strong>Node.js</strong>, and <strong>MongoDB</strong> to build
+              <strong>Node.js</strong>, <strong>PostgreSQL</strong>, <strong>Prisma</strong> and <strong>MongoDB</strong> to build
               dynamic, responsive, and scalable web applications.
             </p>
             <p>
